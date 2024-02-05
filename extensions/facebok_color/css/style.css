@@ -1,0 +1,25 @@
+.facebook-color {
+    position: fixed;
+    right: 10px;
+    bottom: 5%;
+}
+
+.facebook-color button {
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px 15px;
+    font-size: 120%;
+}
+
+.facebook-color button.btnRed {
+    background: red;
+}
+
+.facebook-color button.btnBlue {
+    background: blue;
+}
+
+.facebook-color button.active {
+    color: yellow;
+}
